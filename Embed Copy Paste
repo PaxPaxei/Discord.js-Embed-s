@@ -1,0 +1,15 @@
+client.on('message', async message => {
+    if(message.content === "The command a user will type") {
+        const helpEmbed = new Discord.MessageEmbed()
+        .addField("Title here", "Put heading here");
+        message.channel.send(helpEmbed);
+    }
+});
+
+
+
+
+
+
+
+If you want to add more Headings remove the semi colon and add another line that says .addField("2nd Heading")    To end off the code add a semi colon at the end of your heading.
