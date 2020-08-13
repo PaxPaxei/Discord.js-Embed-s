@@ -1,2 +1,3 @@
 # Tutorial-1
-How to make a embed in discord.js
+
+This code is writen in javascript and this is how to make a embed in discord.js!
