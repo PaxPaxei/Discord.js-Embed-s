@@ -13,3 +13,4 @@ client.on('message', async message => {
 
 
 If you want to add more Headings remove the semi colon and add another line that says .addField("2nd Heading")    To end off the code add a semi colon at the end of your heading.
+If you wanna add author do the same thing and remove the semi colon after your heading and do .setAuthor('You') and finish it off with a semi colon.
